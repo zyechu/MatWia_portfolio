@@ -8,5 +8,6 @@ Interactive dashboard project for registered cars comes from [CEPiK](http://www.
 - Pandas - for data manipulation
 - Seaborn, Altair - for creating different charts
 This project enable users for their own filtering the data which he want to discover, and see the different plots such as pie charts, linear, column.
+
 #### About the data
 The data came from CEPiK API - in period from 2019-01-01 to 2019-06-31.
