@@ -2,8 +2,8 @@
 My data science portfolio
 
 # 1. Registered Cars Dashboard - interactive visualisation
-### Project description  (project is hosted here [link] (https://share.streamlit.io/zyechu/analiticsdash/deploy/main.py) :
-Interactive dashboard project for registered cars comes from [CEPiK] (http://www.cepik.gov.pl/). In this project I used packages such as:
+### Project description  (project is hosted here [link](https://share.streamlit.io/zyechu/analiticsdash/deploy/main.py) :
+Interactive dashboard project for registered cars comes from [CEPiK](http://www.cepik.gov.pl/). In this project I used packages such as:
 - Streamlit - for interactive visualisation
 - Pandas - for data manipulation
 - Seaborn, Altair - for creating different charts
