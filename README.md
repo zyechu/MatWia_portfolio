@@ -4,7 +4,7 @@ My data science portfolio
 # [1. Registered Cars Dashboard - interactive visualisation](https://github.com/zyechu/AnaliticsDash)
 ### Project description  (project is also hosted here [link](https://share.streamlit.io/zyechu/analiticsdash/deploy/main.py) ):
 Interactive dashboard project for registered cars comes from [CEPiK API](http://www.cepik.gov.pl/). In this project I used packages such as:
-- Streamlit - for interactive visualisation
+- Streamlit - for interactive visualisation dashboard
 - Pandas - for data manipulation
 - Seaborn, Altair - for creating different charts
 
@@ -13,6 +13,7 @@ This project enable users for their own filtering the data which he want to disc
 
 #### About the data
 The data came from CEPiK API - in period from 2019-01-01 to 2019-06-31.
+The code for getting the data is in 
 
 ### Interesting facts - In the analyzed period:
 - 595,545 cars registration
@@ -23,3 +24,5 @@ The data came from CEPiK API - in period from 2019-01-01 to 2019-06-31.
 - average engine power - 96,92 HP 
 - average engine capacity 1707.92cc 
 - average weight 1403.79 kg
+
+And I also did a 
