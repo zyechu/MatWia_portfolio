@@ -12,8 +12,7 @@ This project enable users for their own filtering the data which he want to disc
 
 
 #### About the data
-The data came from CEPiK API - in period from 2019-01-01 to 2019-06-31.
-The code for getting the data is in 
+I took data from CEPiK API - in period from 2019-01-01 to 2019-06-31.
 
 ### Interesting facts - In the analyzed period:
 - 595,545 cars registration
@@ -25,4 +24,4 @@ The code for getting the data is in
 - average engine capacity 1707.92cc 
 - average weight 1403.79 kg
 
-And I also did a 
+And I created a [notebook](https://github.com/zyechu/AnaliticsDash/blob/deploy/notebook.ipynb) for data inside analysis
